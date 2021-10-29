@@ -19,7 +19,7 @@ QR-код задания (на GIT-репозиторий):
 
 Примечание: Структура выпускной работы (название глав, параграфов). 
 QR-код задания (на GIT-репозиторий):
-<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Fkristinekh1996%2F-250521-210621%2Fblob%2Fmain%2F%C7%E0%E4%E0%ED%E8%E5%25202.1%2520%C2%D1%D0%2520%D5%E0%F7%E0%F2%F0%FF%ED%2520%CA%F0%E8%F1%F2%E8%ED%E5.docx&4&0" width="228" height="228" border="0" title="QR код"></a>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Fkristinekh1996%2F---2-%2Fblob%2Fmain%2F%C7%E0%E4%E0%ED%E8%E5%25201.2%2520%28%EF%E5%F0%29%2520%C8%D1%D0%2520%D5%E0%F7%E0%F2%F0%FF%ED%2520%CA%F0%E8%F1%F2%E8%ED%E5.docx&4&0" width="228" height="228" border="0" title="QR код"></a>
 
 II. Вариативная самостоятельная работа
 (выбрать одно из заданий с одинаковыми номерами)
